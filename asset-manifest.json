@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Deepasubramani/react-redux-gp-pages/static/css/main.073c9b0a.css",
-    "main.js": "/Deepasubramani/react-redux-gp-pages/static/js/main.b35a8c63.js",
-    "static/js/787.01839658.chunk.js": "/Deepasubramani/react-redux-gp-pages/static/js/787.01839658.chunk.js",
-    "static/media/logo.svg": "/Deepasubramani/react-redux-gp-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Deepasubramani/react-redux-gp-pages/index.html",
-    "main.073c9b0a.css.map": "/Deepasubramani/react-redux-gp-pages/static/css/main.073c9b0a.css.map",
-    "main.b35a8c63.js.map": "/Deepasubramani/react-redux-gp-pages/static/js/main.b35a8c63.js.map",
-    "787.01839658.chunk.js.map": "/Deepasubramani/react-redux-gp-pages/static/js/787.01839658.chunk.js.map"
+    "main.css": "/react-redux-gp-pages/static/css/main.073c9b0a.css",
+    "main.js": "/react-redux-gp-pages/static/js/main.5a33cef1.js",
+    "static/js/787.01839658.chunk.js": "/react-redux-gp-pages/static/js/787.01839658.chunk.js",
+    "static/media/logo.svg": "/react-redux-gp-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-redux-gp-pages/index.html",
+    "main.073c9b0a.css.map": "/react-redux-gp-pages/static/css/main.073c9b0a.css.map",
+    "main.5a33cef1.js.map": "/react-redux-gp-pages/static/js/main.5a33cef1.js.map",
+    "787.01839658.chunk.js.map": "/react-redux-gp-pages/static/js/787.01839658.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.b35a8c63.js"
+    "static/js/main.5a33cef1.js"
   ]
 }
