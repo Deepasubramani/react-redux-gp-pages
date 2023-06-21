@@ -1,3 +1,6 @@
+# Useful Links
+1. [Deploying React App as a Github pages](https://www.linkedin.com/feed/update/urn:li:activity:7060971161383227392/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
