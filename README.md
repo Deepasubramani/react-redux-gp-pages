@@ -3,7 +3,7 @@
 
 # Run the below command before starting the project
 
-1. The best supported, easiest-to-use react media query module.
+1.Media queries in react for responsive design.\
     Run : npm i react-responsive
 2. 
 
